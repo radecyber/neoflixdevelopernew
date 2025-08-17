@@ -162,7 +162,7 @@ export const mockContent: MockContent[] = [
   {
     id: '10',
     title: 'Detective Poirot: How Does Your Garden Grow',
-    description: 'Hercule Poirot receives a cryptic letter from an elderly woman, Amelia Barrowby, asking for his help—shortly before she dies under suspicious circumstances. Poirot investigates her houeehold and uncovers hidden tensions involving a young Russian companion and a disputed inheritance. Ultimately, he reveals that the murder was committed using poison concealed in perfume, motivated by jealousy and greed.',
+    description: 'Hercule Poirot receives a cryptic letter from an elderly woman, Amelia Barrowby, asking for his help—shortly before she dies under suspicious circumstances. Poirot investigates her household and uncovers hidden tensions involving a young Russian companion and a disputed inheritance. Ultimately, he reveals that the murder was committed using poison concealed in perfume, motivated by jealousy and greed.',
     thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
     videoUrl: 'https://dn720503.ca.archive.org/0/items/poirot-series/01.05%20The%20Third%20Floor%20Flat.mp4',
     duration: '50m 47s',
