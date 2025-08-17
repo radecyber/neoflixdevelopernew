@@ -158,5 +158,21 @@ export const mockContent: MockContent[] = [
       { language: 'Serbian', code: 'sr', url: '/subtitles/rescue-sr.vtt' },
       { language: 'German', code: 'de', url: '/subtitles/rescue-de.vtt' }
     ]
+  },
+  {
+    id: '10',
+    title: 'Detective Poirot: The Third Floor Flat',
+    description: 'Hercule Poirot and friends accidentally discover a dead woman in a London apartment after a mix-up with keys. Poirot investigates the tenants and visitors, piecing together subtle clues about timing, relationships, and lies. In the end, he unmasks the murderer by revealing how access to the flat and a hidden motive fit perfectly together.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://dn720503.ca.archive.org/0/items/poirot-series/01.05%20The%20Third%20Floor%20Flat.mp4',
+    duration: '50m 47s',
+    year: 1989,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
   }
 ];
