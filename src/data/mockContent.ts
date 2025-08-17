@@ -55,7 +55,7 @@ export const mockContent: MockContent[] = [
     thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
     videoUrl: 'https://dn720503.ca.archive.org/0/items/poirot-series/12.03%20Murder%20on%20the%20Orient%20Express.mp4',
     duration: '1h 32m 51s',
-    year: 2023,
+    year: 2010,
     genre: ['Mystery', 'Drama', 'Period'],
     rating: 'TV-14',
     subtitles: [
