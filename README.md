@@ -1,5 +1,5 @@
 NeoFlix - A program to broadcast media for free.
 
-Currently: beta 1
+Currently: beta 2
 
 Using bolt.new
