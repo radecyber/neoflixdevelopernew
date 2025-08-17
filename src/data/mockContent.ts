@@ -39,7 +39,7 @@ export const mockContent: MockContent[] = [
     thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
     videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.08%20The%20Incredible%20Theft.mp4',
     duration: '51m 49s',
-    year: 2023,
+    year: 1989,
     genre: ['Drama', 'Crime'],
     rating: 'TV-12',
     subtitles: [
