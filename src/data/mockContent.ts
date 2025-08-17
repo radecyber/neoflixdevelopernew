@@ -166,7 +166,7 @@ export const mockContent: MockContent[] = [
     thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
     videoUrl: 'https://dn720503.ca.archive.org/0/items/poirot-series/03.02%20How%20Does%20Your%20Garden%20Grow.mp4',
     duration: '53m 33s',
-    year: 1989,
+    year: 1991,
     genre: ['Drama', 'Crime'],
     rating: 'TV-12',
     subtitles: [
