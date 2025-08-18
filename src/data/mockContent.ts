@@ -175,4 +175,132 @@ export const mockContent: MockContent[] = [
       { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
     ]
   }
+  },
+  {
+    id: '11',
+    title: 'Detective Poirot: The Adventure of the Clapham Cook',
+    description: 'Hercule Poirot investigates the mysterious disappearance of a cook from a respectable household in Clapham. What initially appears to be a simple case of domestic staff leaving without notice soon reveals deeper secrets involving family finances, hidden relationships, and a clever scheme that only Poirot can unravel.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.01%20The%20Adventure%20of%20the%20Clapham%20Cook.mp4',
+    duration: '51m 28s',
+    year: 1989,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
+  },
+  {
+    id: '12',
+    title: 'Detective Poirot: Murder in the Mews',
+    description: 'When a woman is found dead in her locked flat, apparently having committed suicide, Poirot suspects foul play. The Belgian detective must navigate through alibis, hidden motives, and carefully planted evidence to expose a cunning murderer who thought they had committed the perfect crime.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.02%20Murder%20in%20the%20Mews.mp4',
+    duration: '51m 42s',
+    year: 1989,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
+  },
+  {
+    id: '13',
+    title: 'Detective Poirot: The Adventure of Johnnie Waverly',
+    description: 'Poirot is called to protect young Johnnie Waverly from a kidnapping threat. Despite his precautions, the boy disappears, leading Poirot into a complex web of family secrets, financial troubles, and a kidnapping plot that is not quite what it seems. The detective must use all his skills to save the child and expose the truth.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.03%20The%20Adventure%20of%20Johnnie%20Waverly.mp4',
+    duration: '51m 15s',
+    year: 1989,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
+  },
+  {
+    id: '14',
+    title: 'Detective Poirot: Four and Twenty Blackbirds',
+    description: 'The death of a reclusive old man in a restaurant leads Poirot to investigate his peculiar dining habits and the people who knew them. What starts as a natural death investigation becomes a murder case when Poirot discovers that someone used the victim\'s predictable routine against him in a most ingenious way.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.04%20Four%20and%20Twenty%20Blackbirds.mp4',
+    duration: '51m 33s',
+    year: 1989,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
+  },
+  {
+    id: '15',
+    title: 'Detective Poirot: The King of Clubs',
+    description: 'When a film producer is found murdered in his locked study, Poirot must sift through a cast of suspects including actors, writers, and business partners. Each has a motive, and each has an alibi. The detective must use his understanding of human nature to identify the killer among this theatrical group.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.07%20The%20King%20of%20Clubs.mp4',
+    duration: '51m 19s',
+    year: 1989,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
+  },
+  {
+    id: '16',
+    title: 'Detective Poirot: The Dream',
+    description: 'A wealthy man\'s recurring nightmare about his own murder becomes reality when he is found dead in circumstances that mirror his dream exactly. Poirot must determine whether this is an extraordinary coincidence or if someone used the man\'s fears against him in a carefully planned murder.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.09%20The%20Dream.mp4',
+    duration: '51m 07s',
+    year: 1989,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
+  },
+  {
+    id: '17',
+    title: 'Detective Poirot: The Veiled Lady',
+    description: 'A mysterious veiled woman seeks Poirot\'s help to recover compromising letters, but the detective suspects there is more to her story than she reveals. As he investigates, Poirot uncovers a blackmail scheme, hidden identities, and a murder that threatens to destroy several reputations.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/01.10%20The%20Veiled%20Lady.mp4',
+    duration: '51m 24s',
+    year: 1990,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
+  },
+  {
+    id: '18',
+    title: 'Detective Poirot: The Lost Mine',
+    description: 'When a man dies leaving behind a will that mentions a valuable mine, his relatives gather to claim their inheritance. However, the will goes missing, and soon people start dying. Poirot must navigate family greed, hidden partnerships, and deadly secrets to solve multiple murders and locate the missing document.',
+    thumbnail: 'https://images.pexels.com/photos/3137078/pexels-photo-3137078.jpeg?auto=compress&cs=tinysrgb&w=800',
+    videoUrl: 'https://ia601708.us.archive.org/0/items/poirot-series/02.01%20The%20Lost%20Mine.mp4',
+    duration: '51m 51s',
+    year: 1990,
+    genre: ['Drama', 'Crime'],
+    rating: 'TV-12',
+    subtitles: [
+      { language: 'English', code: 'en', url: '/subtitles/poirot-en.vtt' },
+      { language: 'Serbian', code: 'sr', url: '/subtitles/poirot-sr.vtt' },
+      { language: 'Spanish', code: 'es', url: '/subtitles/poirot-es.vtt' }
+    ]
 ];
